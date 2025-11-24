@@ -1,0 +1,20 @@
+Conteúdo da avaliação
+Orientações:
+
+Atividade prática avaliativa (1,0 ponto) - Nota individual - Entrega na plataforma (0,3) - Apresentação (0,7)
+Atividade em grupo de 6 integrantes
+Apenas um integrante faz a postagem da atividade, porém a apresentação e monitoria todos devem participar
+Usar o campo editável para fazer a entrega (Não anexar arquivo)
+
+
+O que fazer:
+
+26/08
+Pesquisar uma ferramenta para programação na linguagem C
+Colocar no blackboard os integrantes
+Colocar no blackboard o nome da ferramenta
+Apresentar para a turma:
+Principais vantagens percebidas pelo grupo
+Principais desvantagens percebidas pelo grupo
+Demonstrar seu uso com um exemplo prático (Exemplo com o uso de entrada de dados via usuário e saída de dados). Não pode usar exemplo com estrutura de decisão ou repetição, conteúdo ainda não visto em sala de aula
+Colocar na atividade nome dos integrantes
