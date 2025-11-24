@@ -37,7 +37,7 @@ Este é o **projeto principal** escolhido, desenvolvido para a disciplina de **D
 
 ### 📂 Estrutura de Arquivos Central
 
-[cite_start]Abaixo está a estrutura de arquivos no nível raiz que organiza todas as evidências solicitadas pela trilha:
+Abaixo está a estrutura de arquivos no nível raiz que organiza todas as evidências solicitadas pela trilha:
 
 DesignProfissional_A1/ ├── Projeto_Principal_HTML/ # Projeto do Portfólio (Evidência 3) ├── Repositorios_1Semestre/ # Links ou arquivos dos 4 repositórios (Evidência 4) ├── CertificadoSimposio.pdf # Certificado de Evento (Evidência 5) ├── CurriculoLattes.pdf # Currículo (Evidência 2) ├── ProcessoSeletivo.pdf # Relato do Processo Seletivo (Evidência 1) └── README.md # Este documento de organização central
 
