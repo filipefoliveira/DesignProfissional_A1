@@ -14,7 +14,7 @@ Acesse os projetos individualmente nos links abaixo:
 * **Página de Portfólio em HTML** - https://github.com/filipefoliveira/Atividade-Pagina-de-Portfolio
 * **Página em HTML de uma loja de eletrônicos fictícia** - https://github.com/filipefoliveira/Atividade-Site-Loja-de-Eletronicos
 * **Página em HTML para um evento tecnológico(foi feito com base em um evento real mas com datas fictícias)** - https://github.com/filipefoliveira/Atividade-Evento-Tecnologico
-* **Página em HTML com funções em JavaScript como projeto final do 1° semestre do curso de ADS na disciplina de Desenvolvimento Front-end para Web ** - https://github.com/filipefoliveira/Projeto-GastoCerto
+* **Página em HTML com funções em JavaScript como projeto final do 1° semestre do curso de ADS na disciplina de Desenvolvimento Front-end para Web** - https://github.com/filipefoliveira/Projeto-GastoCerto
 
 ## Tecnologias Principais
 
