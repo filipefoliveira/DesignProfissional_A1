@@ -13,11 +13,11 @@ A nota final da A1 será atribuída com base no cumprimento do checklist e na qu
 
 | Entregável (1,0 pt cada) | Evidência Esperada (PDF) | Evidência no Repositório | Status |
 | :--- | :--- | :--- | :--- |
-| **1. Participação em Processo Seletivo** | [cite_start]Print da candidatura, e-mail ou relato documentado | `ProcessoSeletivo.pdf` | **ENTREGUE** |
-| **2. Currículo Lattes ou em LaTeX** | [cite_start]Link do currículo Lattes ou PDF gerado via LaTeX | `CurriculoLattes.pdf` | **ENTREGUE** |
-| **3. Portfólio no GitHub** | [cite_start]Repositório com README estruturado e pelo menos 1 projeto | **Este Repositório Central** (`DesignProfissional_A1`) | **ENTREGUE** |
-| **4. Repositórios das Disciplinas do 1º Semestre** | [cite_start]Links de 4 repositórios distintos com README e estrutura básica | Pasta `Repositorios_1Semestre` (Contém os links/arquivos) | **ENTREGUE** |
-| **5. Certificado de Participação em Evento** | [cite_start]Certificado digital ou comprovante de inscrição | `CertificadoSimposio.pdf` | **ENTREGUE** |
+| **1. Participação em Processo Seletivo** | Print da candidatura, e-mail ou relato documentado | `ProcessoSeletivo.pdf` | **ENTREGUE** |
+| **2. Currículo Lattes ou em LaTeX** | Link do currículo Lattes ou PDF gerado via LaTeX | `CurriculoLattes.pdf` | **ENTREGUE** |
+| **3. Portfólio no GitHub** | Repositório com README estruturado e pelo menos 1 projeto | **Este Repositório Central** (`DesignProfissional_A1`) | **ENTREGUE** |
+| **4. Repositórios das Disciplinas do 1º Semestre** | Links de 4 repositórios distintos com README e estrutura básica | Pasta `Repositorios_1Semestre` (Contém os links/arquivos) | **ENTREGUE** |
+| **5. Certificado de Participação em Evento** | Certificado digital ou comprovante de inscrição | `CertificadoSimposio.pdf` | **ENTREGUE** |
 
 ---
 
@@ -37,7 +37,7 @@ Este é o **projeto principal** escolhido, desenvolvido para a disciplina de **D
 
 ### 📂 Estrutura de Arquivos Central
 
-[cite_start]Abaixo está a estrutura de arquivos no nível raiz que organiza todas as evidências solicitadas pela trilha[cite: 9, 14]:
+[cite_start]Abaixo está a estrutura de arquivos no nível raiz que organiza todas as evidências solicitadas pela trilha:
 
 DesignProfissional_A1/ ├── Projeto_Principal_HTML/ # Projeto do Portfólio (Evidência 3) ├── Repositorios_1Semestre/ # Links ou arquivos dos 4 repositórios (Evidência 4) ├── CertificadoSimposio.pdf # Certificado de Evento (Evidência 5) ├── CurriculoLattes.pdf # Currículo (Evidência 2) ├── ProcessoSeletivo.pdf # Relato do Processo Seletivo (Evidência 1) └── README.md # Este documento de organização central
 
