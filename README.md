@@ -1,23 +1,23 @@
 # 📚 Avaliação A1 | Design Profissional (UDF/ADS)
 ## Repositório Central de Entregáveis
 
-[cite_start]Este repositório cumpre o papel de **documento organizador central** para a **Avaliação 1 (A1)** da disciplina de **Design Profissional** [cite: 3, 4][cite_start], do curso de **Análise e Desenvolvimento de Sistemas** (ADS) no **Centro Universitário do Distrito Federal (UDF)**[cite: 1, 2].
+Este repositório cumpre o papel de **documento organizador central** para a **Avaliação 1 (A1)** da disciplina de **Design Profissional** do curso de **Análise e Desenvolvimento de Sistemas** (ADS) no **Centro Universitário do Distrito Federal (UDF)**.
 
-[cite_start]O **Objetivo** da A1 é demonstrar posicionamento profissional, organização digital e engajamento com o mercado de tecnologia por meio de evidências práticas[cite: 5].
+O **Objetivo** da A1 é demonstrar posicionamento profissional, organização digital e engajamento com o mercado de tecnologia por meio de evidências práticas.
 
 ---
 
 ## ✅ Checklist de Entregáveis (Total: 5,0 Pontos)
 
-[cite_start]A nota final da A1 será atribuída com base no cumprimento do checklist e na qualidade das evidências[cite: 27, 29]. [cite_start]Cada item tem o valor de 1,0 ponto[cite: 6, 28].
+A nota final da A1 será atribuída com base no cumprimento do checklist e na qualidade das evidências. Cada item tem o valor de 1,0 ponto.
 
 | Entregável (1,0 pt cada) | Evidência Esperada (PDF) | Evidência no Repositório | Status |
 | :--- | :--- | :--- | :--- |
-| **1. Participação em Processo Seletivo** | [cite_start]Print da candidatura, e-mail ou relato documentado [cite: 6, 13] | `ProcessoSeletivo.pdf` | **ENTREGUE** |
-| **2. Currículo Lattes ou em LaTeX** | [cite_start]Link do currículo Lattes ou PDF gerado via LaTeX [cite: 6] | `CurriculoLattes.pdf` | **ENTREGUE** |
-| **3. Portfólio no GitHub** | [cite_start]Repositório com README estruturado e pelo menos 1 projeto [cite: 6] | **Este Repositório Central** (`DesignProfissional_A1`) | **ENTREGUE** |
-| **4. Repositórios das Disciplinas do 1º Semestre** | [cite_start]Links de 4 repositórios distintos com README e estrutura básica [cite: 6, 10] | Pasta `Repositorios_1Semestre` (Contém os links/arquivos) | **ENTREGUE** |
-| **5. Certificado de Participação em Evento** | [cite_start]Certificado digital ou comprovante de inscrição [cite: 6, 11] | `CertificadoSimposio.pdf` | **ENTREGUE** |
+| **1. Participação em Processo Seletivo** | [cite_start]Print da candidatura, e-mail ou relato documentado | `ProcessoSeletivo.pdf` | **ENTREGUE** |
+| **2. Currículo Lattes ou em LaTeX** | [cite_start]Link do currículo Lattes ou PDF gerado via LaTeX | `CurriculoLattes.pdf` | **ENTREGUE** |
+| **3. Portfólio no GitHub** | [cite_start]Repositório com README estruturado e pelo menos 1 projeto | **Este Repositório Central** (`DesignProfissional_A1`) | **ENTREGUE** |
+| **4. Repositórios das Disciplinas do 1º Semestre** | [cite_start]Links de 4 repositórios distintos com README e estrutura básica | Pasta `Repositorios_1Semestre` (Contém os links/arquivos) | **ENTREGUE** |
+| **5. Certificado de Participação em Evento** | [cite_start]Certificado digital ou comprovante de inscrição | `CertificadoSimposio.pdf` | **ENTREGUE** |
 
 ---
 
@@ -47,7 +47,7 @@ DesignProfissional_A1/ ├── Projeto_Principal_HTML/ # Projeto do Portfólio
 
 | Informação | Detalhe |
 | :--- | :--- |
-| **Nome** | Lorde Supremo das Galáxias |
+| **Nome** | Filipe Fernandes de Oliveira |
 | **Curso** | Análise e Desenvolvimento de Sistemas (ADS) |
 | **Disciplina** | Design Profissional |
 | **Avaliação** | A1 |
